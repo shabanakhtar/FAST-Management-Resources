@@ -12,7 +12,7 @@ Most existing resource repos and drives are 90% CS-focused. This one is built sp
 2. Add your materials, following the existing folder naming pattern (create a new folder if the course doesn't have one yet).
 3. Submit a PR with a short note on what you're adding.
 
-You can also reach out at shaban.akhtar2006@gmail.com to contribute.
+To contribute you can also reach out at shaban.akhtar2006@gmail.com or contactzaviyarshahidi@gmail.com
 
 ## Download Specific Folders
 
