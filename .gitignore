@@ -1,0 +1,35 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temp files
+~$*
+*.tmp
+
+# Claude Code config (local only)
+CLAUDE.md
+
+# Local-only files (not for public repo)
+Semester 2/Assignments/
+Semester 2/DA/DA Project/DA FINAL v2.docx
+Semester 2/DA/DA Project/DA FINAL v3.docx
+Semester 2/DA/DA Project/DA FINAL v4.docx
+Semester 2/DA/DA Project/DA_FINAL_v5 report.pdf
+Semester 2/DA/DA Project/DA_FINAL_v5 report ai.pdf
+Semester 2/DA/DA Project/Final Version.docx
+Semester 2/DA/DA Project/First Version.docx
+Semester 2/DA/DA Project/Momina thing.docx
+Semester 2/DA/DA Project/Wisha group.docx
+Semester 2/DA/DA Project/Women's Legal Awareness.xlsx
+Semester 2/DA/DA Project/outline of chapter.jpeg
+Semester 2/PFB/PFB Project/Report V1.docx
+Semester 3/Civics/Spring 2026 Papers/Spring 2026 Civics Sessional I (1).pdf
