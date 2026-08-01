@@ -1,4 +1,4 @@
-# FT, AF, BBA, BA Degree Resources
+# FT, AF, BBA, BA Degree Resources:
 
 Course materials, notes, past papers, and books for Fintech and related management degrees, covering semesters 1–4. Organized by semester, then by course, following the BSFT study plan.
 
@@ -6,7 +6,7 @@ Most existing resource repos and drives are 90% CS-focused. This one is built sp
 
 **Status:** Semesters 1–2 are fairly complete. Semesters 3–4 are still being filled in.
 
-## Contribute
+## Contributions:
 
 1. Fork the repo.
 2. Add your materials, following the existing folder naming pattern (create a new folder if the course doesn't have one yet).
@@ -14,7 +14,7 @@ Most existing resource repos and drives are 90% CS-focused. This one is built sp
 
 To contribute you can also reach out at shaban.akhtar2006@gmail.com or contactzaviyarshahidi@gmail.com
 
-## Download Specific Folders
+## Download Specific Folders:
 
 GitHub doesn't support downloading a single folder directly, so use github.dev's editor instead:
 
@@ -22,7 +22,7 @@ GitHub doesn't support downloading a single folder directly, so use github.dev's
 2. Press `.` on your keyboard (or change the URL from `.com` to `.dev`) to open it in github.dev.
 3. In the Explorer pane, right-click the folder or file you want and select **Download**.
 
-## Contributors
+## Contributors:
 
 Made and maintained by:
 
