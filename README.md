@@ -1,17 +1,17 @@
 # FAST Management Resources
 
-Course materials, notes, past papers, and books for management degrees at FAST-NUCES — FT, BBA, BA, and Accounting & Finance — covering Semesters 1–4. Organized by semester, then by course.
+Notes, past papers, books, and course materials for management degrees at FAST-NUCES: FT, BBA, BA, and Accounting & Finance. Covers Semesters 1 to 4, organized by semester and then by course.
 
-Most existing resource repos and drives are 90% CS-focused. This one is built specifically for management coursework: accounting, finance, marketing, business math, and more.
+Most resource repos and drives out there are 90% CS. This one is for the management side: accounting, finance, marketing, business math, and the rest.
 
 > [!NOTE]
-> The current structure follows the **BSFT study plan**. If you're in BBA, BA, or AF, ~95% of these courses overlap with your first-year curriculum — a few may sit under a different semester than yours, but the content is the same. Course distributions can also shuffle from batch to batch.
+> The folders follow the BSFT study plan. If you're in BBA, BA, or AF, around 95% of these courses show up in your first year too, sometimes just under a different semester. Course distributions can also shuffle from batch to batch.
 
-**Status:** Semesters 1–2 are fairly complete. Semesters 3–4 are still being filled in.
+**Status:** Semesters 1 and 2 are fairly complete. 3 and 4 are still being filled in.
 
 ## Repository Structure
 
-Each course folder contains some combination of `Notes/`, `Mids/`, `Finals/`, `Papers/`, and `Books/` subfolders, depending on what's been collected so far.
+Each course folder has some mix of `Notes/`, `Mids/`, `Finals/`, `Papers/`, and `Books/`, depending on what we've collected so far.
 
 ```text
 FAST-Management-Resources/
@@ -51,7 +51,7 @@ FAST-Management-Resources/
 
 ## Roadmap
 
-Everything currently lives in a single FT-based structure. The plan is to reorganize into four top-level program folders:
+Everything sits in one FT-based structure right now. The plan is to split it into four program folders:
 
 ```text
 FAST-Management-Resources/
@@ -61,27 +61,27 @@ FAST-Management-Resources/
 └── AF/
 ```
 
-Each will contain Semesters 1–6 with the same notes and materials arranged to that program's own study plan, along with program-specific study guides.
+Each one will have Semesters 1 to 6 with the same materials arranged to that program's study plan, plus its own study guides.
 
 ## Contributions
 
 1. Fork the repo.
-2. Add your materials, following the existing folder naming pattern (create a new folder if the course doesn't have one yet).
-3. Submit a PR with a short note on what you're adding.
+2. Add your materials, following the existing folder naming pattern (make a new folder if the course doesn't have one yet).
+3. Open a PR with a short note on what you're adding.
 
-To contribute you can also reach out at shaban.akhtar2006@gmail.com or contactzaviyarshahidi@gmail.com
+You can also reach us at shaban.akhtar2006@gmail.com or contactzaviyarshahidi@gmail.com
 
 ## Download Specific Folders
 
-GitHub doesn't support downloading a single folder directly, so use github.dev's editor instead:
+GitHub won't let you download a single folder, so use github.dev instead:
 
 1. Open the [repository](https://github.com/shabanakhtar/FAST-Management-Resources).
-2. Press `.` on your keyboard (or change the URL from `.com` to `.dev`) to open it in github.dev.
-3. In the Explorer pane, right-click the folder or file you want and select **Download**.
+2. Press `.` (or change `.com` to `.dev` in the URL) to open it in github.dev.
+3. In the Explorer pane, right-click whatever you want and hit **Download**.
 
 ## Disclaimer
 
-This repository is for educational purposes only. All slides, books, and official materials remain the intellectual property of their respective instructors, publishers, and FAST-NUCES.
+This is for educational purposes only. Slides, books, and official materials belong to their respective instructors, publishers, and FAST-NUCES.
 
 ## Contributors
 
