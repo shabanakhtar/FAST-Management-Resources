@@ -7,7 +7,7 @@ Most resource repos and drives out there are 90% CS. This one is for the managem
 > [!NOTE]
 > The folders follow the BSFT study plan. If you're in BBA, BA, or AF, around 95% of these courses show up in your first year too, sometimes just under a different semester. Course distributions can also shuffle from batch to batch.
 
-**Status:** Semesters 1 and 2 are fairly complete. 3 and 4 are still being filled in.
+**Status:** Semesters 1 and 2 are fairly complete. 3 and 4 are still being filled in. UP TO DATE WITH 2025 RESOURCES.
 
 ## Repository Structure
 
