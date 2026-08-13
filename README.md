@@ -1,6 +1,6 @@
 # FAST Management Resources
 
-Notes, past papers, books, and course materials for management degrees at FAST-NUCES: FT, BBA, BA, and Accounting & Finance. Covers Semesters 1 to 4, organized by semester and then by course.
+Notes, past papers, books, and course materials for management degrees at FAST-NUCES: FT, BBA, BA, and AF. Covers Semesters 1 to 4, organized by semester and then by course.
 
 Most resource repos and drives out there are 90% CS. This one is for the management side: accounting, finance, marketing, business math, and the rest.
 
